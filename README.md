@@ -5,7 +5,7 @@ Tips, a tipping software :)
 
 *Tips* is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: ZeMing Zhang
 
 Time spent: 15 hours spent in total
 
